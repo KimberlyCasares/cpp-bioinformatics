@@ -11,7 +11,7 @@ This program implements file-based processing of biological sequence data in C++
 - Command-line oriented scientific tooling
 
 ## Files
-- `sequence_filter.cpp` — main C++ program
+- `6_sequence_filtering.cpp` — main C++ program
 - `example_input.txt` — sample input dataset
 
 ## Build & Run
